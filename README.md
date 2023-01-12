@@ -22,4 +22,4 @@
 
 ##
 
-![Snake animation](https://github.com/Crislaine-Conceicao/Crislaine-Conceicao/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/crislaineconceicao/crislaineconceicao/blob/output/github-contribution-grid-snake.svg)
